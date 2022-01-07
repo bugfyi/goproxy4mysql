@@ -1,5 +1,7 @@
 #  kingshard [中文主页](README_ZH.md)
 
+> Fork from `github.com/flike/kingshard`
+
 [![Build Status](https://travis-ci.org/flike/kingshard.svg?branch=master)](https://travis-ci.org/flike/kingshard)
 
 ## Overview
